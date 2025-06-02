@@ -1,4 +1,6 @@
 ## coming_readerのGCP認証
+(参考)GoogleCloudサービス間認証
+[https://cloud.google.com/sdk/gcloud/reference/auth/print-identity-token](https://cloud.google.com/run/docs/authenticating/service-to-service?hl=ja#run-service-to-service-example-python)
 
 ### 1. 環境変数を設定
 /go または /python ディレクトリで作成してください
